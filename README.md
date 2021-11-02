@@ -1,4 +1,10 @@
 # GPT2-Chinese-Colab-Notebook
+## [用Colab打开](https://colab.research.google.com/github/poinwater/GPT2-Chinese-Colab-Notebook/blob/main/GPT2-Chinese.ipynb)
+
+**[Open via Colab](https://colab.research.google.com/github/poinwater/GPT2-Chinese-Colab-Notebook/blob/main/GPT2-Chinese.ipynb)**
+
+
+
 A colab runnable notebook based on [GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese) repository
 
 一个基于仓库 [GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese)创建的Colab 云笔记
